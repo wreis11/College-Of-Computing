@@ -1,0 +1,105 @@
+body {
+  background-color: rgb(211, 204, 204);
+}
+
+input {
+  outline: none;
+  border: none;
+  width: 22em;
+  height: 4em;
+  border-radius: 16px;
+  background-color: rgb(228, 223, 223);
+  font-family: Arial, Helvetica, sans-serif;
+  border-color: rgba(240, 115, 209, 0);
+  margin-left: 95px;
+  margin-top: -19px;
+  display: block;
+  padding-left: 15px;
+
+
+
+
+}
+
+input::placeholder {
+  padding-left: 10px;
+  margin-left: 15px;
+}
+
+.bai {
+
+  position: relative 70px;
+  background-color: rgba(255, 252, 252, 0.76);
+  height: 50em;
+  width: 30em;
+  border-radius: 1em;
+  margin-left: 27em;
+  margin-top: 15px;
+  margin-bottom: 2em;
+  box-shadow: 2px 5px 100px #F2CB05;
+  size: 70px;
+}
+
+.oi {
+  width: 23em;
+  height: 4em;
+  border-radius: 1em;
+  background-color: #F2CB05;
+  left: 2px;
+  bottom: 3px;
+  position: relative;
+  display: block;
+
+
+}
+
+.oi:active {
+  background-color: #c7aa1c;
+}
+
+.madara {
+  margin-left: 12em;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  top: 20px;
+}
+
+label {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 95px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+
+}
+
+.wesley {
+  color: black;
+  position: relative;
+  bottom: 20px;
+}
+
+.aroz {
+  color: black;
+  position: relative;
+  top: 10px;
+  left: 46px;
+}
+
+a {
+  text-decoration: none;
+  color: #F2CB05;
+}
+
+a:hover {
+  color: #b4980a;
+
+}
